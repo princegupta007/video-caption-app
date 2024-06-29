@@ -32,5 +32,4 @@
 - **Enhanced Styling**: More sophisticated UI/UX improvements.
 
 ## Hosting
-- Hosted on [SPYNE.AI] (https://spyneai.netlify.app/).
-
+- [🔗Live Demo🔗](https://spyneai.netlify.app/)
